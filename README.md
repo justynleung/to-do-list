@@ -10,5 +10,5 @@
 
 <h2>Functionalities</h2>
 <p>The app consist of a to do list items with a toggle function to indicate the status of completion.</p><br>
-<p>The list items are displayed after mapping through the array.</p><br>
+<p>The list items are displayed by mapping through an array of to do list items.</p><br>
 <p>The toggle function is achieved by useState hook and conditional rendering of the "active" class of bootstrap on list-group-item.</p><br>
