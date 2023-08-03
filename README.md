@@ -1,5 +1,5 @@
 <h1>A To Do List Applcation</h1>
-<a>https://creative-cocada-1ec32d.netlify.app/</a>
+<a href="https://creative-cocada-1ec32d.netlify.app/">Link here</a>
 
 <h2>Tech stacks</h2>
 <ul>
